@@ -1,4 +1,4 @@
 # Tech Stack
-- Golang
-- Next.Js
-- Postgres
+- Golang (Backend)
+- Next.Js (Frontend)
+- Postgres (Database)
